@@ -4,7 +4,7 @@
 - [Revision History](#revision-history-version-date-description-of-change)
 - [Overview](#overview)
 - [Hardware Description](#hardware-description)
-- [Set up your Hardware Environmen](#set-up-your-hardware-environment)
+- [Set up your Hardware Environment](#set-up-your-hardware-environment)
 - [Set up your Development Environment](#set-up-your-development-environment)
 - [Troubleshooting](#troubleshooting)
 
